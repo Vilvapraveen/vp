@@ -1,7 +1,5 @@
 package morethen;
-
 import java.util.Scanner;
-
 public class AgeOfVoting {
     public static void main(String[] args) {
 
